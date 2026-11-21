@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**itsMKDev/itsMKDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muhammad Yaseen 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Engineer | Web Developer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BS Software Engineering student at Lahore Leads University.
+
+I'm passionate about learning web development and building creative projects.
+
+### 🚀 About Me
+- 🌱 Currently learning JavaScript.
+- 💻 Interested in Frontend Web Development.
+- 🎯 My goal is to become a professional Software Engineer.
+- 📚 Always learning new technologies.
+- 🤝 Interested in collaborating on web development projects.
+
+### 🛠️ My Skills
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Git & GitHub
+
+### 🎯 My Goals
+- Build modern and responsive websites.
+- Improve my JavaScript skills.
+- Learn advanced web development.
+- Build real-world projects.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/itsMKDev
+
+---
+
+⭐ Thanks for visiting my profile!
